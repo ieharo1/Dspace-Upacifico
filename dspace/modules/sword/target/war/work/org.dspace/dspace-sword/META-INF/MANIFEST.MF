@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: DSpace SWORD
+Implementation-Version: 6.3
+Archiver-Version: Plexus Archiver
+Built-By: vagrant
+Specification-Vendor: DuraSpace
+Specification-Title: DSpace SWORD
+Implementation-Vendor-Id: org.dspace
+Implementation-Vendor: DuraSpace
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_171
+Specification-Version: 6.3
+Implementation-URL: https://github.com/dspace/DSpace/dspace-sword
+
