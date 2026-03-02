@@ -1,4 +1,4 @@
-﻿# Dspace-Upacifico
+﻿# DSpace
 
 Proyecto de configuracion y despliegue de DSpace 9 desarrollado por **Isaac Esteban Haro Torres**.
 
@@ -467,6 +467,7 @@ Adaptado y actualizado para Ubuntu 24.04 LTS y DSpace 9.1.
 ---
 
 Copyright 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
 
 
 
